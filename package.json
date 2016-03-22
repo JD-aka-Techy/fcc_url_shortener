@@ -1,0 +1,13 @@
+{
+  "name": "fcc-url-shortener",
+  "version": "0.0.0",
+  "description": "A url shortener api for freecodecamp challenge <http://www.freecodecamp.com/challenges/url-shortener-microservice>",
+  "main": "server.js",
+  "repository": "",
+  "author": "James 'Techy' Davenport <https://github.com/JD-aka-Techy>",
+  "dependencies": {
+    "express": "~3.2.4",
+    "mongodb": "2.1.7",
+    "valid-url": "^1.0.9"
+  }
+}
